@@ -1,3 +1,5 @@
 test hello
  if sucess  
-   i��ll  go home!
+   i¡®ll  go home!
+   
+   我 测试 第二次
